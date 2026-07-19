@@ -15,7 +15,7 @@ I'm currently developing the pulse oximeter subsystem for **SAMD (Sleep Apnea Mo
 - Embedded Software
 - Firmware Development
 - Medical Devices
-- Internet of Things (IoT)
+- IoT
 - Real-time Systems
 
 ## Experience

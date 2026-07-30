@@ -8,7 +8,7 @@ While I'm particularly interested in medical devices and healthcare technology, 
 
 ## Current Project
 
-I'm currently developing the pulse oximeter subsystem for **SAMD (Sleep Apnea Monitoring Device)**, a university project focused on monitoring sleep apnea. My work involves developing firmware for an ESP32-C6 using the MAX30102 optical sensor together with FreeRTOS.
+I'm currently developing the pulse oximeter subsystem for **SAMD (Sleep Apnea Monitoring Device)**, a university project focused on monitoring sleep apnea.
 
 ## Technical Interests
 

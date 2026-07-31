@@ -18,8 +18,6 @@ I'm currently developing the pulse oximeter subsystem for **SAMD (Sleep Apnea Mo
 - IoT
 - Real-time Systems
 
-## Experience
-
 ### Languages
 
 - C

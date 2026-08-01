@@ -38,6 +38,8 @@ I'm currently developing the pulse oximeter subsystem for **SAMD (Sleep Apnea Mo
 - Git
 - VS Code
 - Linux
+- Robot Framework
+- Jenkins
 
 ## Current Goals
 
